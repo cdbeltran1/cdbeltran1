@@ -4,7 +4,11 @@ src="https://github.com/cdbeltran1/cdbeltran1/blob/main/Black%20%26%20White%20Mo
 width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-beltran-aponte/)
+<div id="header" align="center">
+  <a href="(https://www.linkedin.com/in/cristian-david-beltran-aponte/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</div>
+ 
 
 ## Hi there 👋
 
