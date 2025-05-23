@@ -25,6 +25,18 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * Recently completed a Data Analytics bootcamp :star2:, gaining hands-on experience with SQL and Python :snake:, visualization libraries like Matplotlib, Seaborn, and Plotly :bar_chart:, and BI tools such as Tableau and Power BI :chart_with_upwards_trend:. I'm continuously learning :seedling:, practicing coding :computer:, and leveraging my previous work experience to effectively use Microsoft tools :desktop_computer:—especially Excel, including macros and pivot tables.
 
 * :mailbox: Feel free to contact me! [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-beltran-aponte/)
+
+---
+
+## :hammer_and_wrench: Languages and Tools :
+
+<div id="header" align="left">
+  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
+</div>
 <!--
 **cdbeltran1/cdbeltran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
