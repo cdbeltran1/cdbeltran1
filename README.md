@@ -21,6 +21,12 @@ width="800"/>
 
 Tech enthusiast currently embracing a career shift into Data Analytics. <img decoding="async" 
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :telescope: Currently working in project management for HVAC system installation projects, but I'm eager to take on new challenges and continue growing professionally :muscle:
+
+* Recently completed a Data Analytics bootcamp :star2:, gaining hands-on experience with SQL and Python :snake:, visualization libraries like Matplotlib, Seaborn, and Plotly :bar_chart:, and BI tools such as Tableau and Power BI :chart_with_upwards_trend:. I'm continuously learning :seedling:, practicing coding :computer:, and leveraging my previous work experience to effectively use Microsoft tools :desktop_computer:—especially Excel, including macros and pivot tables.
+
+* :mailbox: Feel free to contact me! [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-david-beltran-aponte/)
 <!--
 **cdbeltran1/cdbeltran1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
