@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/cdbeltran1/cdbeltran1/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)" width="800"/>
+  <img decoding="async" 
+src="https://github.com/cdbeltran1/cdbeltran1/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png"
+width="800"/>
 </div>
 
 
