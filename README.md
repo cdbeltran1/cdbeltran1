@@ -5,8 +5,9 @@ width="800"/>
 </div>
 
 <div id="header" align="center">
-  <a href="(https://www.linkedin.com/in/cristian-david-beltran-aponte/">
+  <a href="https://www.linkedin.com/in/cristian-david-beltran-aponte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
  
 
